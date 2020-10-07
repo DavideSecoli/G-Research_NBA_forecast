@@ -1,2 +1,2 @@
 # NBA_forecast
- Machine learning forecasting model that predicts NBA matches points
+ Machine learning forecasting model used for predicting NBA matches points at the G-Research NBA data challenge
